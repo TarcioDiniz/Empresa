@@ -13,7 +13,7 @@ Certifique-se de ter o Java JDK instalado em sua máquina.
 
 ## Como Executar
 
-1. Clone este repositório: `git clone https://github.com/TarcioDiniz/Empresa.git
+1. Clone este repositório: `git clone https://github.com/TarcioDiniz/Empresa.git`
 2. Compile o código: `javac *.java`
 3. Execute o programa: `java Main`
 
